@@ -21,3 +21,9 @@ This repository contains the final project for the Python Programming for Securi
 3. Run the scripts using the command:
    ```sh
    python NetworkAttacker.py
+
+Contact
+For any questions or feedback, please contact Sagiv Marmorstein at sagivmarmorstein@gmail.com
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
